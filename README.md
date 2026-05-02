@@ -50,19 +50,11 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-```bash
-> scanning...
-> decoding patterns...
-> injecting logic...
-> system evolving...
-```
 
 ---
 
-## 👁️ watchers
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=watching_you" />
+<p align="center">
+  <img src="https://count.getloli.com/get/@Fer-nanda1208?moebooru" alt="Moe Counter" />
 </p>
 
 ---
