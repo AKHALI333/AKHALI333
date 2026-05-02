@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=false&vCenter=true&width=600&lines=booting+system...;loading+modules...;automation+%7C+data+%7C+security;access+granted..." />
 
-```bash
-> initializing kernel...
-> user: akali
-> mode: underground
-> status: active
-```
 
 ---
 
